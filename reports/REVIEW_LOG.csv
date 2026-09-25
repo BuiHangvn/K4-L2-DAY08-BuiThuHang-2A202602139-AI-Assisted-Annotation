@@ -1,0 +1,4 @@
+round,frame_id,object,action,rule_or_reason
+1,frame_0392.jpg,xe con phía dưới giữa màn hình,added,Xe chưa có khung theo HUONG_DAN_THUC_HIEN.md
+1,frame_0187.jpg,xe bán tải ở giữa màn hình,edited,Khung lệch theo HUONG_DAN_THUC_HIEN.md
+1,frame_0312.jpg,xe con phía trái màn hình,edited,Khung lệch theo HUONG_DAN_THUC_HIEN.md
